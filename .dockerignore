@@ -1,0 +1,12 @@
+# Ignore git and data
+.git
+data/
+
+# Ignore local scripts
+*.sh
+
+# Ignore documentation
+README.md
+
+# Ignore OS files
+.DS_Store
